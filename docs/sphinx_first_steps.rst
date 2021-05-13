@@ -199,8 +199,8 @@ You need to add an extra line between the toctree and the list of files you're a
      :maxdepth: 2
      :caption: Contents
 
-      tutorial
-      changelog
+     tutorial
+     changelog
 
 Now save the ``index.rst`` file. Re-build the documentation by running ``make html``,
 and reload your browser. You should see both Tutorial and Changelog reflected
